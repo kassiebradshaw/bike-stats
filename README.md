@@ -78,3 +78,7 @@ Answer the following questions/do the following tasks:
 * Created Jupyter Notebook and README
 * Created GitHub repo
 * Initial ACP
+
+## Credit & Collaboration
+
+* Had an issue reading the trip CSV file, used [this stack overflow link](https://stackoverflow.com/questions/18039057/python-pandas-error-tokenizing-data) to help find the solution to add a semicolon seperator to the read function
